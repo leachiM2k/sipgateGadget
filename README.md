@@ -11,11 +11,11 @@ Actually it's a proof-of-concept. It means, that there is no error handling and 
 
 Screenshots
 -----------
-![Gadget Menu](http://github.com/leachiM2k/sipgateGadget/blob/origin/sipgateGadget1.jpg)
+![Gadget Menu](http://github.com/leachiM2k/sipgateGadget/raw/origin/sipgateGadget1.jpg)
 
 --------
 
-![Gadget Screen](sipgateGadget2.jpg)
+![Gadget Screen](http://github.com/leachiM2k/sipgateGadget/raw/origin/sipgateGadget2.jpg)
 
 Version History
 ---------------
