@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    width: 478px;
+    height: 110px;	
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+span.label {
+	width: 90px;
+}

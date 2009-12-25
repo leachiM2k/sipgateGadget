@@ -1,0 +1,102 @@
+body
+{
+	margin: 0;
+	width: 280px;
+	height: 220px;
+	font-family: verdana, arial;
+	font-weight: bold;
+	font-size: 10px;
+    color: black;
+}
+#loggedOff {
+	background: #EEE;
+	position: absolute;
+	width: 240px;
+	height: 160px;
+	z-index: 1000;
+	color: #000;
+	padding: 20px 10px;
+	text-align: center;
+	left: 20px;
+	top: 40px;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 18px;
+	display: none;
+}
+#sms_recipients {
+    position: absolute;
+    left: 29px;
+    top: 41px;
+	border: 1px solid rgb(189, 189, 189);
+    width: 218px;
+}
+#sms_text {
+    position: absolute;
+    right: auto;
+    bottom: auto;
+    margin-top: 0px;
+    left: 29px;
+    top: 70px;
+	border: 1px solid rgb(189, 189, 189);
+    height: 81px;
+    width: 220px;
+}		
+button#button {
+	border: 0;
+    position: absolute;
+	top: 180px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px 10px;
+	left: 80px;
+}
+#price_info {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: absolute;
+    text-align: right;
+    font-weight: bold;
+    font-size: 9px;
+    color: #FFFFFF;
+    right: 34px;
+    bottom: 52px;
+    height: 16px;
+    width: 90px;
+}
+#count_info {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: absolute;
+    text-align: left;
+    font-weight: bold;
+    font-size: 9px;
+    color: #FFFFFF;
+    left: 36px;
+    bottom: 52px;
+    height: 16px;
+    width: 90px;
+}
+#balance_info {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: absolute;
+    text-align: right;
+    font-weight: bold;
+    color: rgb(165, 237, 171);
+    top: 17px;
+    right: 29px;
+    height: 17px;
+    width: 155px;
+}
+#site_info {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: absolute;
+    font-weight: bold;
+    color: #FFFFFF;
+    top: 17px;
+    left: 23px;
+    height: 17px;
+    width: 68px;
+}

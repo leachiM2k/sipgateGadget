@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+	<name>sipgate SMS</name>
+	<version>1.0.0.0</version>
+	<author name="sipgate (Michael Rotmanov)">
+		<info url="www.sipgate.de"/>
+	</author>
+	<copyright>&#169; sipgate GmbH</copyright>
+	<description>sipgate gadget</description>
+	<icons>
+		<icon height="48" width="48" src="images/sipgateGadget.png" />
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="sipgate.html"/>
+			<permissions>Full</permissions>
+			<platform minPlatformVersion="1.0"/>
+			<defaultImage src="images/sipgateGadget.png" />
+		</host>
+	</hosts>
+</gadget>
