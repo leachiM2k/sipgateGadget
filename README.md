@@ -11,7 +11,7 @@ Actually it's a proof-of-concept. It means, that there is no error handling and 
 
 Screenshots
 -----------
-![Gadget Menu](sipgateGadget1.jpg)
+![Gadget Menu](http://github.com/leachiM2k/sipgateGadget/blob/origin/sipgateGadget1.jpg)
 
 --------
 
