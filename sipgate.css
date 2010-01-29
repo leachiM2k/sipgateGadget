@@ -9,12 +9,12 @@ body
     color: black;
 }
 #loggedOff {
-	background: #EEE;
+	background: url(images/back.png) center;
 	position: absolute;
 	width: 240px;
 	height: 160px;
 	z-index: 1000;
-	color: #000;
+	color: #eee;
 	padding: 20px 10px;
 	text-align: center;
 	left: 20px;
